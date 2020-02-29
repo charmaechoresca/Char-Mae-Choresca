@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en" dlr="ltr">
+<head>
+	<meta charset="utf-8">
+	<title> Cha's Personal Site</title>
+</head>
+
+<body bgcolor="linen">
+	<p align="center"><img src="cha.jpg" alt="cha" width="200" height="200"></p>
+	<h1 align="center"> Char Mae C. Choresca </h1>
+	<p align="center">
+		<strong>
+		I am an artist. <br>I used graphite pencils all the time and do digital arts.<br> Art is my kind of medicine.</strong>
+	</p>
+	<hr color="pink" width="900">
+	<br><h1 align="center">Personal Profile</h1>
+	<br>
+	<table align="center" bordercolor="pink"  cellpadding="10" cellspacing="10" width="900">
+		<tr>
+			<td align="left"><b> Nickname: Cha, Yenyen</b></td>
+			<td align="left"> <b>Age: 19</b></td>
+		</tr>
+		<tr>
+			<b>
+			<td align="left"><b> Address: Salud, Bolinao, Pangasinan</b></td>
+			<td align="left"><b> Birthday: May 2, 2000</b></td>
+			</b>
+		</tr>
+		<tr>
+			<td align="left"> <b>Nationality: Filipino</b></td>
+			<td align="left"><b>Birthplace: Bolinao, Pangasinan</b></td>
+		</tr>
+		<tr>
+			<td align="left"><b>Status: Single</b></td>
+			<td align="left"><b>Zodiac Sign: Taurus</b></td>
+		</tr>
+		
+	</table>
+	
+	<br>
+
+		<table align="center" bordercolor="pink"  cellpadding="10" cellspacing="10" width="900">
+			<tr>
+				<th colspan="500"> <h1>E D U C A T I O N</h1></th>
+			</tr>
+			<tr>
+				<td align="center"><h3>Primary</h3></td>
+				<td align="center"><h3> Secondary</h3></td>
+				<td align="center"><h3> Tertiary</h3></td>
+			</tr>
+			<tr>
+				<td align="center">
+					<p>
+						<em><b> Salud Elementary School</b></em>
+						<br>Salud, Bolinao, Pangasinan
+						<br>2006-2012
+					</p>
+				</td>
+				<td align="center">
+					<p>
+						<em><b>Pilar National High School</b></em>
+						<br>Pilar Bolinao, Pangasinan
+						<br>2014-2018
+				</td>
+				<td align="center">
+					<p>
+						<em><b>Pangasinan State University</em></b> <br>Lingayen Campus<br>BS Information Technology <br>Lingayen, Pangasinan
+						<br>2018-present
+				</td>
+			</tr>
+			<tr>
+
+				<td align="center"></td>
+				<td align="center">
+					<p>
+						<em><b> Jovita Alfaras Rivera National High School</b></em>
+					<br>Tapacon, Bingawan, Iloilo
+					<br>2012-2014
+					</p>
+				</td>
+				<td align="center"></td>
+			</tr>
+		</table>
+		<br>
+		<br>
+		<hr color="pink" width="900">
+		<br>
+		
+	<h1 align="center">Hobbies</h1><br>
+	<h2><em>Watching Anime</em></h2>
+		<p> During my free time, I allow myself to watch anime. I admire the efforts exerted by the animators in each anime. I also dreamt to be an animator few years ago but I think, it's not meant for me, lol.</p>
+		<br>
+	<h2><em>Playing Volleyball and Table Tennis</em></h2>
+		<p> Playing sports isn't my hobby at all. But as years go by, I got interested in playing it.
+		I started playing table tennis during my elementary grade and recently, I played it again after how many years during PSU Intramural 2019. Volleyball, on the other hand, is a sport I didn't itended to be my favorite. I just started playing it during Grade 9, because I was inspired by an Atenean libero, Mrs. Dennise Michelle Lazaro-Revilla. And as of today, improving on this sport is my goal. </p>
+		<br>
+	<h2><em>Creating Art</em></h2>
+		<p>Art has been my therapy for amost 4 years. Everytime I got attacked by anxiety and depression, it is my kind of therapy. I don't have the natural talent to be honest, but thru my eagerness to learn, I already drawn portraits but dur to my laziness, I seldom do portraits, just quick sketches of random people (all artist has this attitude, so don't judge me lol). I was first into graphite pencil medium but I got interested in digital art. Some of my artworks are on the Art Album :>.</p>
+		<br>
+		<h2><em>Photography</em></h2>
+		<p>I am fond of capturing sceneries. I do edits but i don't like to be photgraphed like lol, I am not photogenic. *evil laugh</p>
+		<br>
+
+			<br><hr color="pink" width="900"><br>
+			<h1 align="center"> Art Album </h1>
+			<br><br>
+			<p align="center">
+			 	<img width="300" src="CHE.jpg">
+			 	<img width="300" src="MARU.jpg">
+			 	<img width="300" src="MIRROR.jpg">
+			 	<br><br>
+			 	<img width="300" src="RICA.jpg">
+			 	<img width="300" src="STEPH.jpg">
+			 	<img width="300" src="LIZA.jpg">
+			 	<br><br>
+			 	<img width="300" src="YEN.jpg">
+			 	<img width="300" src="SUN.jpg">
+			 	<img width="300" src="LAS.jpg">
+			 	<br><br>
+			 	<img width="300" src="AKO.jpg">
+			 	<img width="300" src="CHAI.jpg">
+			 	<img width="300" src="LOT.jpg">
+			 	<br><br>
+			 	<img width="300" src="KATH.jpg">
+			 	<img width="300" src="QUICK.jpg">
+			 	<img width="300" src="IZEL.jpg">
+			 </p>
+			 <br><br><hr color="pink" width="900">
+		</body>
+</html>
